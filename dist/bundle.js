@@ -1,0 +1,1 @@
+(()=>{var e=document.getElementById("profit"),n=0;setInterval((function(){n+=.00019830246,e.innerHTML="".concat(n," euros")}),1e3)})();
